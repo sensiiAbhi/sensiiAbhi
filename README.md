@@ -41,9 +41,6 @@
   <a href="https://youtube.com/@@lord-sense" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://github.com/senseiAbhinav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -96,8 +93,7 @@
 
 ## 🏆 GitHub Highlights  
 
-<div align="left" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=sensiiAbhi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="130px" />
+<div align="center" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sensiiAbhi&theme=tokyonight&hide_border=false" height="130px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensiiAbhi&layout=compact&theme=tokyonight&hide_border=false" height="130px" />
 </div>
