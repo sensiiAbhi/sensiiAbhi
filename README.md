@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <div align="left">
-  <h1>👋 Hey there, I'm <span style="color:#00ADB5;">Abhinav</span></h1>
-  <h3>A Passionate CSE Student | AI & Cloud Enthusiast | Full Stack Developer</h3>
+  <h1>Hey there, I'm <span style="color:#00ADB5;">Abhinav 👋 </span></h1>
+  <h3>A Passionate Programmer | AI & Cloud Enthusiast | Full Stack Developer</h3>
 </div>
 
 ---
@@ -15,10 +15,10 @@
       
 *"Building technology that feels human — smart, simple, and scalable."*
 
-- 🌱 Currently exploring **Deep Learning, FastAPI, and Cloud Platforms (AWS, OCI, Azure)**  
-- 🤝 Open to collaborate on **ML Projects** and **Cloud Deployments**  
-- 🎮 When I’m not coding — I’m probably gaming or tinkering with automation tools  
-- 💻 I love crafting **AI-powered web apps** using **Flask, TensorFlow, and Node.js**  
+- ⚡ Currently exploring **Deep Learning, FastAPI, and Cloud Platforms (AWS, OCI, Azure)**  
+- ⚡ Open to collaborate on **ML Projects** and **Cloud Deployments**  
+- ⚡ When I’m not coding — I’m probably gaming or tinkering with automation tools  
+- ⚡ I love crafting **AI-powered web apps** using **Flask, TensorFlow, and Node.js**  
 - ⚡ Fun Fact: *I once debugged an infinite loop faster than my coffee cooled down!* ☕  
 
     </td>
@@ -38,14 +38,14 @@
   <a href="https://linkedin.com/in/-rai-abhinav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@@lord-sense" target="_blank">
+  <a href="https://youtube.com/@lord-sense" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🖥️ Tech Stack
 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -80,23 +80,14 @@
 
 ---
 
-## ⚙️ Current Focus  
+## 🏮 Current Focus  
 
-| 🧩 Area | 💡 Goal |
+| Area | Goal |
 |:--|:--|
 | Cloud | Deploying AI APIs on **OCI** and **AWS Lambda** |
 | Open Source | Contributing to Python-based tools and ML libraries |
 | Machine Learning | Training CNN models for real-world image classification |
 | Web Dev | Building full-stack apps with **FastAPI + React/Next.js** |
-
----
-
-## 🏆 GitHub Highlights  
-
-<div align="center" width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sensiiAbhi&theme=tokyonight&hide_border=false" height="130px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensiiAbhi&layout=compact&theme=tokyonight&hide_border=false" height="130px" />
-</div>
 
 ---
 
@@ -110,8 +101,6 @@
 
 ---
 
-### 🖤 Crafted with precision by **SENSEi**
-> *“Traditional in principles, innovative in execution.”*
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" width="100%" />
 
 ---
